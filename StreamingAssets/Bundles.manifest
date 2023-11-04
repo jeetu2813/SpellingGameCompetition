@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 1503012743
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: q1/spelling_q1_m1_v2
+      Dependencies: {}
+    Info_1:
+      Name: q1/spelling_q1_m3_v2
+      Dependencies: {}
+    Info_2:
+      Name: q1/spelling_q1_m5_v2
+      Dependencies: {}
+    Info_3:
+      Name: q1/spelling_q1_m7_v2
+      Dependencies: {}
+    Info_4:
+      Name: q1/spelling_q1_std1_v2
+      Dependencies: {}
+    Info_5:
+      Name: q1/spelling_q1_std2_v2
+      Dependencies: {}
+    Info_6:
+      Name: q1/spelling_q1_std3_v2
+      Dependencies: {}
+    Info_7:
+      Name: q2/spelling_q2_m1_v2
+      Dependencies: {}
+    Info_8:
+      Name: q2/spelling_q2_m3_v2
+      Dependencies: {}
+    Info_9:
+      Name: q2/spelling_q2_m5_v2
+      Dependencies: {}
+    Info_10:
+      Name: q2/spelling_q2_m7_v2
+      Dependencies: {}
+    Info_11:
+      Name: q1/spelling_q1_j2_v2
+      Dependencies: {}
+    Info_12:
+      Name: q1/spelling_q1_j3_v2
+      Dependencies: {}
+    Info_13:
+      Name: q1/spelling_q1_t4_v2
+      Dependencies: {}
+    Info_14:
+      Name: q2/spelling_q2_j2_v2
+      Dependencies: {}
+    Info_15:
+      Name: q2/spelling_q2_j3_v2
+      Dependencies: {}
+    Info_16:
+      Name: q2/spelling_q2_t4_v2
+      Dependencies: {}
+    Info_17:
+      Name: q3/spelling_q3_t4_v2
+      Dependencies: {}
+    Info_18:
+      Name: q3/spelling_q3_j2_v2
+      Dependencies: {}
+    Info_19:
+      Name: q3/spelling_q3_j3_v2
+      Dependencies: {}
+    Info_20:
+      Name: q3/spelling_q3_m2_v2
+      Dependencies: {}
+    Info_21:
+      Name: q3/spelling_q3_m4_v2
+      Dependencies: {}
+    Info_22:
+      Name: q3/spelling_q3_m6_v2
+      Dependencies: {}
+    Info_23:
+      Name: q3/spelling_q3_m8_v2
+      Dependencies: {}
+    Info_24:
+      Name: q4/spelling_q4_j2_v2
+      Dependencies: {}
+    Info_25:
+      Name: q4/spelling_q4_m2_v2
+      Dependencies: {}
+    Info_26:
+      Name: q4/spelling_q4_t4_v2
+      Dependencies: {}
+    Info_27:
+      Name: q3/spelling_q3_std3_v2
+      Dependencies: {}
+    Info_28:
+      Name: q3/spelling_q3_std2_v2
+      Dependencies: {}
+    Info_29:
+      Name: q4/spelling_q4_m4_v2
+      Dependencies: {}
+    Info_30:
+      Name: q4/spelling_q4_m6_v2
+      Dependencies: {}
+    Info_31:
+      Name: q3/spelling_q3_std1_v2
+      Dependencies: {}
+    Info_32:
+      Name: q3/spelling_q3_j4_v2
+      Dependencies: {}
+    Info_33:
+      Name: q2/spelling_q2_j4_v2
+      Dependencies: {}
+    Info_34:
+      Name: q1/spelling_q1_j4_v2
+      Dependencies: {}
+    Info_35:
+      Name: q4/spelling_q4_j4_v2
+      Dependencies: {}
+    Info_36:
+      Name: q4/spelling_q4_j3_v2
+      Dependencies: {}
+    Info_37:
+      Name: q4/spelling_q4_m8_v2
+      Dependencies: {}
